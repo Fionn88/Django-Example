@@ -36,11 +36,11 @@ source env/bin/activate
 #### Install Django
 - Unix/macOS
 ```
-python -m pip install Django
+pip install Django==3.2.19
 ```
 - Windows
 ```
-py -m pip install Django
+py -m pip install Django==3.2.19
 ```
 
 
