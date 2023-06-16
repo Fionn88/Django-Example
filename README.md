@@ -48,12 +48,17 @@ python .\manage.py runserver
 
 - Result
 > Watching for file changes with StatReloader
+
 > Performing system checks...
 
 > System check identified no issues (0 silenced).
+
 > June 16, 2023 - 09:11:15
+
 > Django version 4.2.2, using settings 'ProTwo.settings'
+
 > Starting development server at http://127.0.0.1:8000/
+
 > Quit the server with CTRL-BREAK.
 
 - You Can Connect The Service => http://127.0.0.1:8000
