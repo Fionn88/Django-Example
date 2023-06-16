@@ -25,6 +25,18 @@ source env/bin/activate
 ```
 .\env\Scripts\activate
 ```
+
+#### Install Django
+- Unix/macOS
+```
+python -m pip install Django
+```
+- Windows
+```
+py -m pip install Django
+```
+
+
 ### Getting Started
 - Create Project
 ```
