@@ -27,4 +27,4 @@ jobs:
         pip install -r requirements.txt
     - name: Run Tests
       run: |
-        python My_Django_Stuff\first_project\manage.py test
+        python My_Django_Stuff/first_project/manage.py test
