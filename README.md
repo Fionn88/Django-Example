@@ -6,6 +6,13 @@ This Project Is Practice DJango Framework
 
 ### Enviornment Setting
 
+- Django Version
+  - 3.2.19
+- Python Version
+  - 3.11.0
+- CI Passed Python Version
+  - 3.7、3.8、3.9
+
 #### Installing virtualenv
 ```
 py -m pip install --user virtualenv
