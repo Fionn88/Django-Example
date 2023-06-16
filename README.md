@@ -11,7 +11,7 @@ This Project Is Practice DJango Framework
 - Python Version
   - 3.11.0
 - CI Passed Python Version
-  - 3.7、3.8、3.9
+  - 3.7、3.8、3.9、3.10、3.11
 
 #### Installing virtualenv
 ```
