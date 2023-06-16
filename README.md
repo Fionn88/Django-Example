@@ -81,3 +81,8 @@ python .\manage.py runserver
 > Quit the server with CTRL-BREAK.
 
 - You Can Connect The Service => http://127.0.0.1:8000
+
+- Leaving the virtual environment
+```
+deactivate
+```
